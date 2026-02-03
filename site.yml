@@ -1,6 +1,0 @@
-- hosts: localhost
-  become: true
-  roles:
-    - falco
-    - wazuh
-    - node_exporter
